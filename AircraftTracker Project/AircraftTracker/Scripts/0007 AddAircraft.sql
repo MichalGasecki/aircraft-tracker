@@ -1,0 +1,5 @@
+CREATE PROCEDURE dbo.AddAircraft (@Name NVARCHAR(200)) AS
+
+IF NOT EXISTS (SELECT Name FROM Aircraft WHERE Name = @Name)
+INSERT INTO Aircraft
+SELECT @Name

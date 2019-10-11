@@ -1,0 +1,952 @@
+﻿<Country>
+  <Name>Afghanistan</Name>
+  <URL>https://www.airportia.com/afghanistan/</URL>
+</Country>
+<Country>
+  <Name>Albania</Name>
+  <URL>https://www.airportia.com/albania/</URL>
+</Country>
+<Country>
+  <Name>Algeria</Name>
+  <URL>https://www.airportia.com/algeria/</URL>
+</Country>
+<Country>
+  <Name>American Samoa</Name>
+  <URL>https://www.airportia.com/american-samoa/</URL>
+</Country>
+<Country>
+  <Name>Andorra</Name>
+  <URL>https://www.airportia.com/andorra/</URL>
+</Country>
+<Country>
+  <Name>Angola</Name>
+  <URL>https://www.airportia.com/angola/</URL>
+</Country>
+<Country>
+  <Name>Anguilla</Name>
+  <URL>https://www.airportia.com/anguilla/</URL>
+</Country>
+<Country>
+  <Name>Antarctica</Name>
+  <URL>https://www.airportia.com/antarctica/</URL>
+</Country>
+<Country>
+  <Name>Antigua And Barbuda</Name>
+  <URL>https://www.airportia.com/antigua-and-barbuda/</URL>
+</Country>
+<Country>
+  <Name>Argentina</Name>
+  <URL>https://www.airportia.com/argentina/</URL>
+</Country>
+<Country>
+  <Name>Armenia</Name>
+  <URL>https://www.airportia.com/armenia/</URL>
+</Country>
+<Country>
+  <Name>Aruba</Name>
+  <URL>https://www.airportia.com/aruba/</URL>
+</Country>
+<Country>
+  <Name>Australia</Name>
+  <URL>https://www.airportia.com/australia/</URL>
+</Country>
+<Country>
+  <Name>Austria</Name>
+  <URL>https://www.airportia.com/austria/</URL>
+</Country>
+<Country>
+  <Name>Azerbaijan</Name>
+  <URL>https://www.airportia.com/azerbaijan/</URL>
+</Country>
+<Country>
+  <Name>Bahamas</Name>
+  <URL>https://www.airportia.com/bahamas/</URL>
+</Country>
+<Country>
+  <Name>Bahrain</Name>
+  <URL>https://www.airportia.com/bahrain/</URL>
+</Country>
+<Country>
+  <Name>Bangladesh</Name>
+  <URL>https://www.airportia.com/bangladesh/</URL>
+</Country>
+<Country>
+  <Name>Barbados</Name>
+  <URL>https://www.airportia.com/barbados/</URL>
+</Country>
+<Country>
+  <Name>Belarus</Name>
+  <URL>https://www.airportia.com/belarus/</URL>
+</Country>
+<Country>
+  <Name>Belgium</Name>
+  <URL>https://www.airportia.com/belgium/</URL>
+</Country>
+<Country>
+  <Name>Belize</Name>
+  <URL>https://www.airportia.com/belize/</URL>
+</Country>
+<Country>
+  <Name>Benin</Name>
+  <URL>https://www.airportia.com/benin/</URL>
+</Country>
+<Country>
+  <Name>Bermuda</Name>
+  <URL>https://www.airportia.com/bermuda/</URL>
+</Country>
+<Country>
+  <Name>Bhutan</Name>
+  <URL>https://www.airportia.com/bhutan/</URL>
+</Country>
+<Country>
+  <Name>Bolivia</Name>
+  <URL>https://www.airportia.com/bolivia/</URL>
+</Country>
+<Country>
+  <Name>Bosnia And Herzegovina</Name>
+  <URL>https://www.airportia.com/bosnia-and-herzegovina/</URL>
+</Country>
+<Country>
+  <Name>Botswana</Name>
+  <URL>https://www.airportia.com/botswana/</URL>
+</Country>
+<Country>
+  <Name>Brazil</Name>
+  <URL>https://www.airportia.com/brazil/</URL>
+</Country>
+<Country>
+  <Name>British Virgin Islands</Name>
+  <URL>https://www.airportia.com/british-virgin-islands/</URL>
+</Country>
+<Country>
+  <Name>Brunei</Name>
+  <URL>https://www.airportia.com/brunei/</URL>
+</Country>
+<Country>
+  <Name>Bulgaria</Name>
+  <URL>https://www.airportia.com/bulgaria/</URL>
+</Country>
+<Country>
+  <Name>Burkina Faso</Name>
+  <URL>https://www.airportia.com/burkina-faso/</URL>
+</Country>
+<Country>
+  <Name>Burma</Name>
+  <URL>https://www.airportia.com/burma/</URL>
+</Country>
+<Country>
+  <Name>Burundi</Name>
+  <URL>https://www.airportia.com/burundi/</URL>
+</Country>
+<Country>
+  <Name>Cambodia</Name>
+  <URL>https://www.airportia.com/cambodia/</URL>
+</Country>
+<Country>
+  <Name>Cameroon</Name>
+  <URL>https://www.airportia.com/cameroon/</URL>
+</Country>
+<Country>
+  <Name>Canada</Name>
+  <URL>https://www.airportia.com/canada/</URL>
+</Country>
+<Country>
+  <Name>Cape Verde</Name>
+  <URL>https://www.airportia.com/cape-verde/</URL>
+</Country>
+<Country>
+  <Name>Caribbean Netherlands</Name>
+  <URL>https://www.airportia.com/caribbean-netherlands/</URL>
+</Country>
+<Country>
+  <Name>Cayman Islands</Name>
+  <URL>https://www.airportia.com/cayman-islands/</URL>
+</Country>
+<Country>
+  <Name>Central African Republic</Name>
+  <URL>https://www.airportia.com/central-african-republic/</URL>
+</Country>
+<Country>
+  <Name>Chad</Name>
+  <URL>https://www.airportia.com/chad/</URL>
+</Country>
+<Country>
+  <Name>Chile</Name>
+  <URL>https://www.airportia.com/chile/</URL>
+</Country>
+<Country>
+  <Name>China</Name>
+  <URL>https://www.airportia.com/china/</URL>
+</Country>
+<Country>
+  <Name>Christmas Island</Name>
+  <URL>https://www.airportia.com/christmas-island/</URL>
+</Country>
+<Country>
+  <Name>Cocos (Keeling) Islands</Name>
+  <URL>https://www.airportia.com/cocos/</URL>
+</Country>
+<Country>
+  <Name>Colombia</Name>
+  <URL>https://www.airportia.com/colombia/</URL>
+</Country>
+<Country>
+  <Name>Comoros</Name>
+  <URL>https://www.airportia.com/comoros/</URL>
+</Country>
+<Country>
+  <Name>Congo</Name>
+  <URL>https://www.airportia.com/congo/</URL>
+</Country>
+<Country>
+  <Name>Cook Islands</Name>
+  <URL>https://www.airportia.com/cook-islands/</URL>
+</Country>
+<Country>
+  <Name>Costa Rica</Name>
+  <URL>https://www.airportia.com/costa-rica/</URL>
+</Country>
+<Country>
+  <Name>Croatia</Name>
+  <URL>https://www.airportia.com/croatia/</URL>
+</Country>
+<Country>
+  <Name>Cuba</Name>
+  <URL>https://www.airportia.com/cuba/</URL>
+</Country>
+<Country>
+  <Name>Curacao</Name>
+  <URL>https://www.airportia.com/cura%c3%a7ao/</URL>
+</Country>
+<Country>
+  <Name>Cyprus</Name>
+  <URL>https://www.airportia.com/cyprus/</URL>
+</Country>
+<Country>
+  <Name>Czech Republic</Name>
+  <URL>https://www.airportia.com/czech-republic/</URL>
+</Country>
+<Country>
+  <Name>Denmark</Name>
+  <URL>https://www.airportia.com/denmark/</URL>
+</Country>
+<Country>
+  <Name>Djibouti</Name>
+  <URL>https://www.airportia.com/djibouti/</URL>
+</Country>
+<Country>
+  <Name>Dominica</Name>
+  <URL>https://www.airportia.com/dominica/</URL>
+</Country>
+<Country>
+  <Name>Dominican Republic</Name>
+  <URL>https://www.airportia.com/dominican-republic/</URL>
+</Country>
+<Country>
+  <Name>Ecuador</Name>
+  <URL>https://www.airportia.com/ecuador/</URL>
+</Country>
+<Country>
+  <Name>Egypt</Name>
+  <URL>https://www.airportia.com/egypt/</URL>
+</Country>
+<Country>
+  <Name>El Salvador</Name>
+  <URL>https://www.airportia.com/el-salvador/</URL>
+</Country>
+<Country>
+  <Name>Equatorial Guinea</Name>
+  <URL>https://www.airportia.com/equatorial-guinea/</URL>
+</Country>
+<Country>
+  <Name>Eritrea</Name>
+  <URL>https://www.airportia.com/eritrea/</URL>
+</Country>
+<Country>
+  <Name>Estonia</Name>
+  <URL>https://www.airportia.com/estonia/</URL>
+</Country>
+<Country>
+  <Name>Ethiopia</Name>
+  <URL>https://www.airportia.com/ethiopia/</URL>
+</Country>
+<Country>
+  <Name>Falkland Islands (Malvinas)</Name>
+  <URL>https://www.airportia.com/falkland-islands/</URL>
+</Country>
+<Country>
+  <Name>Faroe Islands</Name>
+  <URL>https://www.airportia.com/faroe-islands/</URL>
+</Country>
+<Country>
+  <Name>Fiji</Name>
+  <URL>https://www.airportia.com/fiji/</URL>
+</Country>
+<Country>
+  <Name>Finland</Name>
+  <URL>https://www.airportia.com/finland/</URL>
+</Country>
+<Country>
+  <Name>France</Name>
+  <URL>https://www.airportia.com/france/</URL>
+</Country>
+<Country>
+  <Name>French Guiana</Name>
+  <URL>https://www.airportia.com/french-guiana/</URL>
+</Country>
+<Country>
+  <Name>French Polynesia</Name>
+  <URL>https://www.airportia.com/french-polynesia/</URL>
+</Country>
+<Country>
+  <Name>Gabon</Name>
+  <URL>https://www.airportia.com/gabon/</URL>
+</Country>
+<Country>
+  <Name>Gambia</Name>
+  <URL>https://www.airportia.com/gambia/</URL>
+</Country>
+<Country>
+  <Name>Georgia</Name>
+  <URL>https://www.airportia.com/georgia/</URL>
+</Country>
+<Country>
+  <Name>Germany</Name>
+  <URL>https://www.airportia.com/germany/</URL>
+</Country>
+<Country>
+  <Name>Ghana</Name>
+  <URL>https://www.airportia.com/ghana/</URL>
+</Country>
+<Country>
+  <Name>Gibraltar</Name>
+  <URL>https://www.airportia.com/gibraltar/</URL>
+</Country>
+<Country>
+  <Name>Greece</Name>
+  <URL>https://www.airportia.com/greece/</URL>
+</Country>
+<Country>
+  <Name>Greenland</Name>
+  <URL>https://www.airportia.com/greenland/</URL>
+</Country>
+<Country>
+  <Name>Grenada</Name>
+  <URL>https://www.airportia.com/grenada/</URL>
+</Country>
+<Country>
+  <Name>Guadeloupe</Name>
+  <URL>https://www.airportia.com/guadeloupe/</URL>
+</Country>
+<Country>
+  <Name>Guam</Name>
+  <URL>https://www.airportia.com/guam/</URL>
+</Country>
+<Country>
+  <Name>Guatemala</Name>
+  <URL>https://www.airportia.com/guatemala/</URL>
+</Country>
+<Country>
+  <Name>Guernsey</Name>
+  <URL>https://www.airportia.com/guernsey/</URL>
+</Country>
+<Country>
+  <Name>Guinea</Name>
+  <URL>https://www.airportia.com/guinea/</URL>
+</Country>
+<Country>
+  <Name>Guinea-Bissau</Name>
+  <URL>https://www.airportia.com/guinea_bissau/</URL>
+</Country>
+<Country>
+  <Name>Guyana</Name>
+  <URL>https://www.airportia.com/guyana/</URL>
+</Country>
+<Country>
+  <Name>Haiti</Name>
+  <URL>https://www.airportia.com/haiti/</URL>
+</Country>
+<Country>
+  <Name>Honduras</Name>
+  <URL>https://www.airportia.com/honduras/</URL>
+</Country>
+<Country>
+  <Name>Hong Kong</Name>
+  <URL>https://www.airportia.com/hong-kong/</URL>
+</Country>
+<Country>
+  <Name>Hungary</Name>
+  <URL>https://www.airportia.com/hungary/</URL>
+</Country>
+<Country>
+  <Name>Iceland</Name>
+  <URL>https://www.airportia.com/iceland/</URL>
+</Country>
+<Country>
+  <Name>India</Name>
+  <URL>https://www.airportia.com/india/</URL>
+</Country>
+<Country>
+  <Name>Indonesia</Name>
+  <URL>https://www.airportia.com/indonesia/</URL>
+</Country>
+<Country>
+  <Name>Iran</Name>
+  <URL>https://www.airportia.com/iran/</URL>
+</Country>
+<Country>
+  <Name>Iraq</Name>
+  <URL>https://www.airportia.com/iraq/</URL>
+</Country>
+<Country>
+  <Name>Ireland</Name>
+  <URL>https://www.airportia.com/ireland/</URL>
+</Country>
+<Country>
+  <Name>Isle of Man</Name>
+  <URL>https://www.airportia.com/isle-of-man/</URL>
+</Country>
+<Country>
+  <Name>Israel</Name>
+  <URL>https://www.airportia.com/israel/</URL>
+</Country>
+<Country>
+  <Name>Italy</Name>
+  <URL>https://www.airportia.com/italy/</URL>
+</Country>
+<Country>
+  <Name>Ivory Coast</Name>
+  <URL>https://www.airportia.com/ivory-coast/</URL>
+</Country>
+<Country>
+  <Name>Jamaica</Name>
+  <URL>https://www.airportia.com/jamaica/</URL>
+</Country>
+<Country>
+  <Name>Japan</Name>
+  <URL>https://www.airportia.com/japan/</URL>
+</Country>
+<Country>
+  <Name>Jersey</Name>
+  <URL>https://www.airportia.com/jersey/</URL>
+</Country>
+<Country>
+  <Name>Jordan</Name>
+  <URL>https://www.airportia.com/jordan/</URL>
+</Country>
+<Country>
+  <Name>Kazakhstan</Name>
+  <URL>https://www.airportia.com/kazakhstan/</URL>
+</Country>
+<Country>
+  <Name>Kenya</Name>
+  <URL>https://www.airportia.com/kenya/</URL>
+</Country>
+<Country>
+  <Name>Kiribati</Name>
+  <URL>https://www.airportia.com/kiribati/</URL>
+</Country>
+<Country>
+  <Name>Kosovo</Name>
+  <URL>https://www.airportia.com/kosovo/</URL>
+</Country>
+<Country>
+  <Name>Kuwait</Name>
+  <URL>https://www.airportia.com/kuwait/</URL>
+</Country>
+<Country>
+  <Name>Kyrgyzstan</Name>
+  <URL>https://www.airportia.com/kyrgyzstan/</URL>
+</Country>
+<Country>
+  <Name>Laos</Name>
+  <URL>https://www.airportia.com/laos/</URL>
+</Country>
+<Country>
+  <Name>Latvia</Name>
+  <URL>https://www.airportia.com/latvia/</URL>
+</Country>
+<Country>
+  <Name>Lebanon</Name>
+  <URL>https://www.airportia.com/lebanon/</URL>
+</Country>
+<Country>
+  <Name>Lesotho</Name>
+  <URL>https://www.airportia.com/lesotho/</URL>
+</Country>
+<Country>
+  <Name>Liberia</Name>
+  <URL>https://www.airportia.com/liberia/</URL>
+</Country>
+<Country>
+  <Name>Libya</Name>
+  <URL>https://www.airportia.com/libya/</URL>
+</Country>
+<Country>
+  <Name>Lithuania</Name>
+  <URL>https://www.airportia.com/lithuania/</URL>
+</Country>
+<Country>
+  <Name>Luxembourg</Name>
+  <URL>https://www.airportia.com/luxembourg/</URL>
+</Country>
+<Country>
+  <Name>Macau</Name>
+  <URL>https://www.airportia.com/macau/</URL>
+</Country>
+<Country>
+  <Name>Macedonia</Name>
+  <URL>https://www.airportia.com/macedonia/</URL>
+</Country>
+<Country>
+  <Name>Madagascar</Name>
+  <URL>https://www.airportia.com/madagascar/</URL>
+</Country>
+<Country>
+  <Name>Malawi</Name>
+  <URL>https://www.airportia.com/malawi/</URL>
+</Country>
+<Country>
+  <Name>Malaysia</Name>
+  <URL>https://www.airportia.com/malaysia/</URL>
+</Country>
+<Country>
+  <Name>Maldives</Name>
+  <URL>https://www.airportia.com/maldives/</URL>
+</Country>
+<Country>
+  <Name>Mali</Name>
+  <URL>https://www.airportia.com/mali/</URL>
+</Country>
+<Country>
+  <Name>Malta</Name>
+  <URL>https://www.airportia.com/malta/</URL>
+</Country>
+<Country>
+  <Name>Marshall Islands</Name>
+  <URL>https://www.airportia.com/marshall-islands/</URL>
+</Country>
+<Country>
+  <Name>Martinique</Name>
+  <URL>https://www.airportia.com/martinique/</URL>
+</Country>
+<Country>
+  <Name>Mauritania</Name>
+  <URL>https://www.airportia.com/mauritania/</URL>
+</Country>
+<Country>
+  <Name>Mauritius</Name>
+  <URL>https://www.airportia.com/mauritius/</URL>
+</Country>
+<Country>
+  <Name>Mayotte</Name>
+  <URL>https://www.airportia.com/mayotte/</URL>
+</Country>
+<Country>
+  <Name>Mexico</Name>
+  <URL>https://www.airportia.com/mexico/</URL>
+</Country>
+<Country>
+  <Name>Micronesia</Name>
+  <URL>https://www.airportia.com/micronesia/</URL>
+</Country>
+<Country>
+  <Name>Moldova</Name>
+  <URL>https://www.airportia.com/moldova/</URL>
+</Country>
+<Country>
+  <Name>Monaco</Name>
+  <URL>https://www.airportia.com/monaco/</URL>
+</Country>
+<Country>
+  <Name>Mongolia</Name>
+  <URL>https://www.airportia.com/mongolia/</URL>
+</Country>
+<Country>
+  <Name>Montenegro</Name>
+  <URL>https://www.airportia.com/montenegro/</URL>
+</Country>
+<Country>
+  <Name>Montserrat</Name>
+  <URL>https://www.airportia.com/montserrat/</URL>
+</Country>
+<Country>
+  <Name>Morocco</Name>
+  <URL>https://www.airportia.com/morocco/</URL>
+</Country>
+<Country>
+  <Name>Mozambique</Name>
+  <URL>https://www.airportia.com/mozambique/</URL>
+</Country>
+<Country>
+  <Name>Myanmar (Burma)</Name>
+  <URL>https://www.airportia.com/myanmar-burma/</URL>
+</Country>
+<Country>
+  <Name>Namibia</Name>
+  <URL>https://www.airportia.com/namibia/</URL>
+</Country>
+<Country>
+  <Name>Nauru</Name>
+  <URL>https://www.airportia.com/nauru/</URL>
+</Country>
+<Country>
+  <Name>Nepal</Name>
+  <URL>https://www.airportia.com/nepal/</URL>
+</Country>
+<Country>
+  <Name>Netherlands</Name>
+  <URL>https://www.airportia.com/netherlands/</URL>
+</Country>
+<Country>
+  <Name>New Caledonia</Name>
+  <URL>https://www.airportia.com/new-caledonia/</URL>
+</Country>
+<Country>
+  <Name>New Zealand</Name>
+  <URL>https://www.airportia.com/new-zealand/</URL>
+</Country>
+<Country>
+  <Name>Nicaragua</Name>
+  <URL>https://www.airportia.com/nicaragua/</URL>
+</Country>
+<Country>
+  <Name>Niger</Name>
+  <URL>https://www.airportia.com/niger/</URL>
+</Country>
+<Country>
+  <Name>Nigeria</Name>
+  <URL>https://www.airportia.com/nigeria/</URL>
+</Country>
+<Country>
+  <Name>Niue</Name>
+  <URL>https://www.airportia.com/niue/</URL>
+</Country>
+<Country>
+  <Name>Norfolk Island</Name>
+  <URL>https://www.airportia.com/norfolk-island/</URL>
+</Country>
+<Country>
+  <Name>North Korea</Name>
+  <URL>https://www.airportia.com/north-korea/</URL>
+</Country>
+<Country>
+  <Name>Northern Mariana Islands</Name>
+  <URL>https://www.airportia.com/northern-mariana-islands/</URL>
+</Country>
+<Country>
+  <Name>Norway</Name>
+  <URL>https://www.airportia.com/norway/</URL>
+</Country>
+<Country>
+  <Name>Oman</Name>
+  <URL>https://www.airportia.com/oman/</URL>
+</Country>
+<Country>
+  <Name>Pakistan</Name>
+  <URL>https://www.airportia.com/pakistan/</URL>
+</Country>
+<Country>
+  <Name>Palau</Name>
+  <URL>https://www.airportia.com/palau/</URL>
+</Country>
+<Country>
+  <Name>Palestinian Territory</Name>
+  <URL>https://www.airportia.com/palestinian-territory/</URL>
+</Country>
+<Country>
+  <Name>Panama</Name>
+  <URL>https://www.airportia.com/panama/</URL>
+</Country>
+<Country>
+  <Name>Papua New Guinea</Name>
+  <URL>https://www.airportia.com/papua-new-guinea/</URL>
+</Country>
+<Country>
+  <Name>Paraguay</Name>
+  <URL>https://www.airportia.com/paraguay/</URL>
+</Country>
+<Country>
+  <Name>Perú</Name>
+  <URL>https://www.airportia.com/per%c3%ba/</URL>
+</Country>
+<Country>
+  <Name>Philippines</Name>
+  <URL>https://www.airportia.com/philippines/</URL>
+</Country>
+<Country>
+  <Name>Poland</Name>
+  <URL>https://www.airportia.com/poland/</URL>
+</Country>
+<Country>
+  <Name>Portugal</Name>
+  <URL>https://www.airportia.com/portugal/</URL>
+</Country>
+<Country>
+  <Name>Puerto Rico</Name>
+  <URL>https://www.airportia.com/puerto-rico/</URL>
+</Country>
+<Country>
+  <Name>Qatar</Name>
+  <URL>https://www.airportia.com/qatar/</URL>
+</Country>
+<Country>
+  <Name>Reunion</Name>
+  <URL>https://www.airportia.com/r%c3%a9union/</URL>
+</Country>
+<Country>
+  <Name>Romania</Name>
+  <URL>https://www.airportia.com/romania/</URL>
+</Country>
+<Country>
+  <Name>Russia</Name>
+  <URL>https://www.airportia.com/russia/</URL>
+</Country>
+<Country>
+  <Name>Rwanda</Name>
+  <URL>https://www.airportia.com/rwanda/</URL>
+</Country>
+<Country>
+  <Name>Saint Barthélemy</Name>
+  <URL>https://www.airportia.com/saint-barth%c3%a9lemy/</URL>
+</Country>
+<Country>
+  <Name>Saint Helena</Name>
+  <URL>https://www.airportia.com/saint-helena/</URL>
+</Country>
+<Country>
+  <Name>Saint Kitts And Nevis</Name>
+  <URL>https://www.airportia.com/saint-kitts-and-nevis/</URL>
+</Country>
+<Country>
+  <Name>Saint Lucia</Name>
+  <URL>https://www.airportia.com/saint-lucia/</URL>
+</Country>
+<Country>
+  <Name>Saint Martin</Name>
+  <URL>https://www.airportia.com/saint-martin/</URL>
+</Country>
+<Country>
+  <Name>Saint Pierre and Miquelon</Name>
+  <URL>https://www.airportia.com/saint-pierre-and-miquelon/</URL>
+</Country>
+<Country>
+  <Name>Saint Vincent and the Grenadines</Name>
+  <URL>https://www.airportia.com/saint-vincent-and-the-grenadines/</URL>
+</Country>
+<Country>
+  <Name>Samoa</Name>
+  <URL>https://www.airportia.com/samoa/</URL>
+</Country>
+<Country>
+  <Name>São Tomé and Principe</Name>
+  <URL>https://www.airportia.com/s%c3%a3o-tom%c3%a9-and-principe/</URL>
+</Country>
+<Country>
+  <Name>Saudi Arabia</Name>
+  <URL>https://www.airportia.com/saudi-arabia/</URL>
+</Country>
+<Country>
+  <Name>Senegal</Name>
+  <URL>https://www.airportia.com/senegal/</URL>
+</Country>
+<Country>
+  <Name>Serbia</Name>
+  <URL>https://www.airportia.com/serbia/</URL>
+</Country>
+<Country>
+  <Name>Seychelles</Name>
+  <URL>https://www.airportia.com/seychelles/</URL>
+</Country>
+<Country>
+  <Name>Sierra Leone</Name>
+  <URL>https://www.airportia.com/sierra-leone/</URL>
+</Country>
+<Country>
+  <Name>Singapore</Name>
+  <URL>https://www.airportia.com/singapore/</URL>
+</Country>
+<Country>
+  <Name>Sint Maarten</Name>
+  <URL>https://www.airportia.com/sint-maarten/</URL>
+</Country>
+<Country>
+  <Name>Slovakia</Name>
+  <URL>https://www.airportia.com/slovakia/</URL>
+</Country>
+<Country>
+  <Name>Slovenia</Name>
+  <URL>https://www.airportia.com/slovenia/</URL>
+</Country>
+<Country>
+  <Name>Solomon Islands</Name>
+  <URL>https://www.airportia.com/solomon-islands/</URL>
+</Country>
+<Country>
+  <Name>Somalia</Name>
+  <URL>https://www.airportia.com/somalia/</URL>
+</Country>
+<Country>
+  <Name>South Africa</Name>
+  <URL>https://www.airportia.com/south-africa/</URL>
+</Country>
+<Country>
+  <Name>South Korea</Name>
+  <URL>https://www.airportia.com/south-korea/</URL>
+</Country>
+<Country>
+  <Name>South Sudan</Name>
+  <URL>https://www.airportia.com/south-sudan/</URL>
+</Country>
+<Country>
+  <Name>Spain</Name>
+  <URL>https://www.airportia.com/spain/</URL>
+</Country>
+<Country>
+  <Name>Sri Lanka</Name>
+  <URL>https://www.airportia.com/sri-lanka/</URL>
+</Country>
+<Country>
+  <Name>Sudan</Name>
+  <URL>https://www.airportia.com/sudan/</URL>
+</Country>
+<Country>
+  <Name>Suriname</Name>
+  <URL>https://www.airportia.com/suriname/</URL>
+</Country>
+<Country>
+  <Name>Swaziland</Name>
+  <URL>https://www.airportia.com/swaziland/</URL>
+</Country>
+<Country>
+  <Name>Sweden</Name>
+  <URL>https://www.airportia.com/sweden/</URL>
+</Country>
+<Country>
+  <Name>Switzerland</Name>
+  <URL>https://www.airportia.com/switzerland/</URL>
+</Country>
+<Country>
+  <Name>Syria</Name>
+  <URL>https://www.airportia.com/syria/</URL>
+</Country>
+<Country>
+  <Name>Taiwan</Name>
+  <URL>https://www.airportia.com/taiwan/</URL>
+</Country>
+<Country>
+  <Name>Tajikistan</Name>
+  <URL>https://www.airportia.com/tajikistan/</URL>
+</Country>
+<Country>
+  <Name>Tanzania</Name>
+  <URL>https://www.airportia.com/tanzania/</URL>
+</Country>
+<Country>
+  <Name>Thailand</Name>
+  <URL>https://www.airportia.com/thailand/</URL>
+</Country>
+<Country>
+  <Name>Timor-Leste</Name>
+  <URL>https://www.airportia.com/timor_leste/</URL>
+</Country>
+<Country>
+  <Name>Togo</Name>
+  <URL>https://www.airportia.com/togo/</URL>
+</Country>
+<Country>
+  <Name>Tonga</Name>
+  <URL>https://www.airportia.com/tonga/</URL>
+</Country>
+<Country>
+  <Name>Trinidad And Tobago</Name>
+  <URL>https://www.airportia.com/trinidad-and-tobago/</URL>
+</Country>
+<Country>
+  <Name>Tunisia</Name>
+  <URL>https://www.airportia.com/tunisia/</URL>
+</Country>
+<Country>
+  <Name>Turkey</Name>
+  <URL>https://www.airportia.com/turkey/</URL>
+</Country>
+<Country>
+  <Name>Turkmenistan</Name>
+  <URL>https://www.airportia.com/turkmenistan/</URL>
+</Country>
+<Country>
+  <Name>Turks and Caicos Islands</Name>
+  <URL>https://www.airportia.com/turks-and-caicos-islands/</URL>
+</Country>
+<Country>
+  <Name>Tuvalu</Name>
+  <URL>https://www.airportia.com/tuvalu/</URL>
+</Country>
+<Country>
+  <Name>U.S. Virgin Islands</Name>
+  <URL>https://www.airportia.com/u.s.-virgin-islands/</URL>
+</Country>
+<Country>
+  <Name>Uganda</Name>
+  <URL>https://www.airportia.com/uganda/</URL>
+</Country>
+<Country>
+  <Name>Ukraine</Name>
+  <URL>https://www.airportia.com/ukraine/</URL>
+</Country>
+<Country>
+  <Name>United Arab Emirates</Name>
+  <URL>https://www.airportia.com/united-arab-emirates/</URL>
+</Country>
+<Country>
+  <Name>United Kingdom</Name>
+  <URL>https://www.airportia.com/united-kingdom/</URL>
+</Country>
+<Country>
+  <Name>United States</Name>
+  <URL>https://www.airportia.com/united-states/</URL>
+</Country>
+<Country>
+  <Name>United States Minor Outlying Islands</Name>
+  <URL>https://www.airportia.com/united-states-minor-outlying-islands/</URL>
+</Country>
+<Country>
+  <Name>Uruguay</Name>
+  <URL>https://www.airportia.com/uruguay/</URL>
+</Country>
+<Country>
+  <Name>Uzbekistan</Name>
+  <URL>https://www.airportia.com/uzbekistan/</URL>
+</Country>
+<Country>
+  <Name>Vanuatu</Name>
+  <URL>https://www.airportia.com/vanuatu/</URL>
+</Country>
+<Country>
+  <Name>Venezuela</Name>
+  <URL>https://www.airportia.com/venezuela/</URL>
+</Country>
+<Country>
+  <Name>Vietnam</Name>
+  <URL>https://www.airportia.com/vietnam/</URL>
+</Country>
+<Country>
+  <Name>Wallis And Futuna</Name>
+  <URL>https://www.airportia.com/wallis-and-futuna/</URL>
+</Country>
+<Country>
+  <Name>Western Sahara</Name>
+  <URL>https://www.airportia.com/western-sahara/</URL>
+</Country>
+<Country>
+  <Name>Yemen</Name>
+  <URL>https://www.airportia.com/yemen/</URL>
+</Country>
+<Country>
+  <Name>Zambia</Name>
+  <URL>https://www.airportia.com/zambia/</URL>
+</Country>
+<Country>
+  <Name>Zimbabwe</Name>
+  <URL>https://www.airportia.com/zimbabwe/</URL>
+</Country>

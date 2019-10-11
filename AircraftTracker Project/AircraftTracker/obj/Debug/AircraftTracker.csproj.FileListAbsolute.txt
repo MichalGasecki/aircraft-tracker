@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\bin\Debug\AircraftTracker.exe.config
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\bin\Debug\AircraftTracker.exe
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\bin\Debug\AircraftTracker.pdb
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\bin\Debug\dbup-core.dll
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\bin\Debug\dbup-sqlserver.dll
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\obj\Debug\AircraftTracker.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\obj\Debug\AircraftTracker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\obj\Debug\AircraftTracker.csproj.CopyComplete
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\obj\Debug\AircraftTracker.exe
+C:\Users\User\Desktop\SQL\Aneta Makaruk\AircraftTracker\AircraftTracker\obj\Debug\AircraftTracker.pdb
