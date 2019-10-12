@@ -8,6 +8,22 @@ Rozwiązanie bazuje na procedurach składowanych i funkcjach, które trafią do 
 
 Aplikacja została napisana jako aplikacja okienkowa, dzięki czemu po uprzednim skonfigurowaniu połączenia z bazą danych wystarczy naciśnięcie klawisza F5 aby na serwerze została utworzona w pełni funkcjonalna baza danych zawierająca wszystkie tabele, niezbędne procedury oraz funkcje.
 
+## Struktura bazy danych
+
+Struktura bazy danych opiera się na procedurach składowanych wspomaganych funkcjami skalarnymi i tabelarycznymi. Baza danych została przygotowana tak, aby możliwe było utworzenie jej schematu i pobranie danych za pomocą jednej procedury. Relacje między procedurami i funkcjami prezentuje poniższy diagram:
+
+<img src="IMG/database-structure.png" width="100%" />
+ 
+Opis poszczególnych elementów diagramu:
+
+|  | Opis |
+| --- | --- |
+| ![#F8CECC](https://placeholder.pics/svg/20/F8CECC/B85450) | główna procedura |
+| ![#F5F5F5](https://placeholder.pics/svg/20/F5F5F5/666666) | procedura dodająca dane |
+| ![#DAE8FC](https://placeholder.pics/svg/20/DAE8FC/6C8EBF) | procedura wykonująca procedury podrzędne w pętli |
+| ![#FFF2CC](https://placeholder.pics/svg/20/FFF2CC/D6B656) | funkcja skalarna |
+| ![#FFE6CC](https://placeholder.pics/svg/20/FFE6CC/D79B00) | funkcja tabelaryczna |
+
 ## Dane
 
 W ostatnim kroku program spróbuje uzupełnić dane słownikowe w tabelach wykorzystując dostarczone pliki XML, jeśli zostały wcześniej pobrane. Zachęcam do importu danych z tych plików, ponieważ ich pobranie z wykorzystaniem utworzonych procedur jest czasochłonne. Udostępnione pliki XML zawierają dane wspólne dla każdego kraju.
@@ -21,7 +37,7 @@ EXEC dbo.AddAirports
 EXEC dbo.AddFlightsFromCountry @CountryID = N
 ```
 
-gdzie N to ID kraju, z którego chcesz pobierać dane. Kod ten pobierze dane o lotach ze wszystkich lotnisk z danego kraju w dniu, w którym wywołasz kod. Możesz oczywiście zwiększyć zakres dat modyfikując zmienną `@Date` w procedurze `dbo.AddFlightsFromCountry`, aby pobrać dane archiwalne.
+gdzie `N` to ID kraju, z którego chcesz pobierać dane. Kod ten pobierze dane o lotach ze wszystkich lotnisk z danego kraju w dniu, w którym wywołasz kod. Możesz oczywiście zwiększyć zakres dat modyfikując zmienną `@Date` w procedurze `dbo.AddFlightsFromCountry`, aby pobrać dane archiwalne.
 
 Możesz także pobrać rozkład lotów z dowolnego lotniska w dowolnym kraju wywołując procedurę `dbo.AddFlightsFromAirport`.
 
